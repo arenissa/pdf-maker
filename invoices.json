@@ -1,0 +1,32 @@
+[
+  {
+    "invoice_id": "JSON-001",
+    "date": "2026-10-01",
+    "client": "Сергей Иванов",
+    "company": "ООО Вектор",
+    "email": "sergey@vector.ru",
+    "description": "Внедрение CRM-системы",
+    "amount": 250000,
+    "currency": "RUB"
+  },
+  {
+    "invoice_id": "JSON-002",
+    "date": "2026-10-03",
+    "client": "Анна Петрова",
+    "company": "ИП Петрова",
+    "email": "anna.petrova@mail.ru",
+    "description": "Настройка рекламной кампании",
+    "amount": 65000,
+    "currency": "RUB"
+  },
+  {
+    "invoice_id": "JSON-003",
+    "date": "2026-10-05",
+    "client": "Николай Смирнов",
+    "company": "АО СтройИнвест",
+    "email": "nikolay@stroyinvest.ru",
+    "description": "Разработка мобильного приложения",
+    "amount": 480000,
+    "currency": "RUB"
+  }
+]
